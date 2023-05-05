@@ -1,4 +1,7 @@
-namespace ProjectName
+using System;
+using Bakery.Models;
+
+namespace Bakery
 {
   class Program
   {
